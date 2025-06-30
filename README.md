@@ -7,11 +7,11 @@ Esta grafica corresponde a las G de cada fuerza que actua en cada joint, el prin
 
 ![plot g](PLOT_G.png)
 
-## Plot velocidad 
+## Plot aceleracion 
 
-Este plot califica las velocidades de las ruedas cuando se va moviendo, coo podemos ver no es muy complicado, las velocidades solo estarab al principo de la grafica debido a que una vez que encontramos el cubo no se va a mover, cuando vamos hacia el cubo las velocidades se mantienen y hay un paraon y luego se gira que es lo correspondiente a despues del paron.
+Este plot califica las aceleraciones de las ruedas cuando se va moviendo, coo podemos ver no es muy complicado, las aceleraciones solo estarab al principo de la grafica debido a que una vez que encontramos el cubo no se va a mover, cuando vamos hacia el cubo las aceleraciones se mantienen y hay un paraon y luego se gira que es lo correspondiente a despues del paron.
 
-![plot velocidad](PLOT_VELOCIDAD.png)
+![plot aceleracion](PLOT_ACELERACION.png)
 
 ## Plot posicion 
 
